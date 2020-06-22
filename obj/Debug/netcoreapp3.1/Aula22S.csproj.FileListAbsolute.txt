@@ -1,0 +1,13 @@
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\bin\Debug\netcoreapp3.1\Aula22S.exe
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\bin\Debug\netcoreapp3.1\Aula22S.deps.json
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\bin\Debug\netcoreapp3.1\Aula22S.runtimeconfig.json
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\bin\Debug\netcoreapp3.1\Aula22S.runtimeconfig.dev.json
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\bin\Debug\netcoreapp3.1\Aula22S.dll
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\bin\Debug\netcoreapp3.1\Aula22S.pdb
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\obj\Debug\netcoreapp3.1\Aula22S.csprojAssemblyReference.cache
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\obj\Debug\netcoreapp3.1\Aula22S.csproj.CoreCompileInputs.cache
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\obj\Debug\netcoreapp3.1\Aula22S.AssemblyInfoInputs.cache
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\obj\Debug\netcoreapp3.1\Aula22S.AssemblyInfo.cs
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\obj\Debug\netcoreapp3.1\Aula22S.dll
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\obj\Debug\netcoreapp3.1\Aula22S.pdb
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula22S\obj\Debug\netcoreapp3.1\Aula22S.genruntimeconfig.cache
